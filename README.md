@@ -71,7 +71,7 @@
   <div>&nbsp;</div>
   - 工作业绩：
   1、 在启动过程组中，我确保了顶目的顺利启动；在规划过程组中，我制定了详尽的项目计划；在执行过程组中，我带领团队高效完成开发任务；在监控过程组中，我通过监控系统确保了项目质量；在收尾过程组中，完成了项目的最终测试和系统说明文档编写，确保了项目的顺利交付，项目取得了不错的结果，获得了客户一致认可。我学会了如何更有效地管理团队，和设计技术架构以及优化系统性能。
-  <p style='font-size: 16px; font-weight: bold; '> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; 我有良好的开发思路，严谨的代码规范，优秀的人际处事，较好的实战经验。所以我可以胜任下一份公司的资深软件工程师岗位。个人邮箱xcx6660000@126.com | zhangkun66666688888888@gmail.com</p>
+  <p style='font-size: 16px; font-weight: bold; '> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; 我有良好的开发思路，严谨的代码规范，优秀的人际处事，较好的实战经验。所以我可以胜任下一份公司的资深软件工程师岗位。
   <div>&nbsp;</div>
     <img align="right" width="88" src="https://www.itrustnow.com/assets/logo.953c5d58.png" />
 
